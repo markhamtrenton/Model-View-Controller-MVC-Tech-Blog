@@ -1,0 +1,25 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "techblog",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markhamtrenton/Model-View-Controller-MVC-Tech-Blog.git"
+  },
+  "author": "Trenton Markham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/markhamtrenton/Model-View-Controller-MVC-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/markhamtrenton/Model-View-Controller-MVC-Tech-Blog#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1"
+  }
+}
