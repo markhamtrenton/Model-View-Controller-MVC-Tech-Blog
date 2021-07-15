@@ -2,20 +2,36 @@
     box-sizing: border-box;
   }
   
-  body,
+  /* body, */
   html {
     height: 100%;
     padding: 10px;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(24, 36, 25);
+    background:url(../images/24ZUMm.gif);
+	background-size:cover;
+	width:100%;
+	height: auto;
+	position:relative;
   }
   
+  body {
+    background-color: #b5b8bd;
+   
+   margin: auto;
+   width: 80%;
+  }
+
+
+
+
+
   a {
     text-decoration: auto;
-    color: #225ca3;
+    
     font-weight: bold;
-    color: rgb(9, 33, 170);
+    color: #111370;
   }
   
   a:hover {
@@ -76,7 +92,11 @@
   nav {
     padding: 2rem;
     text-align: left;
-    /* white-space: pre; */
+    background-color: #CCC;
+    border-radius: 5px;
+    border: 2px outset #7d7d7d;
+    color: #111370;
+    
   }
   
   header {
@@ -86,6 +106,7 @@
     align-items: center;
     padding: 0 2%;
     color: rgb(17, 19, 112);
+    background-color: gray;
   }
   
   header h1 {
@@ -94,6 +115,7 @@
     border-radius: 5px;
     background-color: #ccc;
     padding: 1.25rem;
+    
   }
   
   main {

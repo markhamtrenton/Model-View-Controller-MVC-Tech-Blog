@@ -14,7 +14,7 @@ const postData = [
     user_id: 2,
   },
   {
-    title: 'RockStar Games',
+    title: 'RockStar Games tech has no match when it comes to high quality content they produce',
     content:
     'Rockstar Games, Inc. is an American video game publisher based in New York City. The company was established in December 1998 as a subsidiary of Take-Two Interactive, using the assets Take-Two had previously acquired from BMG Interactive.',
     user_id: 3,
