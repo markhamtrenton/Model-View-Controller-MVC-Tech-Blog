@@ -1,4 +1,7 @@
 In this weeks homework we had to create a Tech Blog style website with the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication and mysql.
+ScreenShot below
+![Techblog](https://user-images.githubusercontent.com/77074964/125868994-e7202e7d-38c7-4e9e-a353-399337d444b8.jpg)
+
 
 
 # 14 Model-View-Controller (MVC): Tech Blog
