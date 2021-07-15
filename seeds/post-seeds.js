@@ -2,21 +2,21 @@ const { Post } = require('../models');
 
 const postData = [
   {
-    title: 'Pipe raises funding',
+    title: 'Red Dead Redemtion 2',
     content:
-      'Pipe makes recurring revenue streams tradable for their annual value, meaning more cash flow for scaling companies. No discounts, no debt, no dilution..',
+    'Set in a fictional recreation of the American Old West in 1899, Red Dead Redemption 2 focuses on the life of Arthur Morgan and his position in the notorious Van der Linde gang.',
     user_id: 1,
   },
   {
-    title: 'Investors hooked on Minnow',
+    title: 'Red Dead Redemtion 1',
     content:
-      'Seattle-based startup Minnow, makers of a contactless food delivery and pickup pod, has raised $3 million in seed funding.',
+    'Red Dead Redemption is set during the decline of the American frontier in the year 1911 and follows John Marston, a former outlaw whose wife and son are taken hostage by the government in ransom for his services as a hired gun.',
     user_id: 2,
   },
   {
-    title: 'SnackPass!',
+    title: 'RockStar Games',
     content:
-      'Why wait in line when you can simply order your food on your phone and pick your order when you get to the restaurant?',
+    'Rockstar Games, Inc. is an American video game publisher based in New York City. The company was established in December 1998 as a subsidiary of Take-Two Interactive, using the assets Take-Two had previously acquired from BMG Interactive.',
     user_id: 3,
   },
 ];
